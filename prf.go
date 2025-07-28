@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/ban6cat6/protean/internal/tls12"
+	"github.com/XLESSGo/protean/internal/tls12"
 )
 
 type prfFunc func(secret []byte, label string, seed []byte, keyLen int) []byte

@@ -1,6 +1,6 @@
 // mimic_tls_certificate.go
 // This file provides a standalone exported function for generating a mimic TLS certificate using protean.
-// It is designed for use in your protean fork and can be imported as "github.com/ban6cat6/protean/mimic_tls_certificate".
+// It is designed for use in your protean fork and can be imported as "github.com/XLESSGo/protean/mimic_tls_certificate".
 // No other changes needed in your server logic.
 
 package tls

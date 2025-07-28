@@ -16,7 +16,7 @@ import (
 	"sync"
 	"testing"
 
-	protean "github.com/ban6cat6/protean"
+	protean "github.com/XLESSGo/protean"
 
 	"golang.org/x/net/http2"
 

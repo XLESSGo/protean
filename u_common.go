@@ -13,7 +13,7 @@ import (
 	"hash"
 	"log"
 
-	"github.com/ban6cat6/protean/internal/helper"
+	"github.com/XLESSGo/protean/internal/helper"
 	"golang.org/x/crypto/cryptobyte"
 )
 

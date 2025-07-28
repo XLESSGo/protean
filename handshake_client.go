@@ -23,10 +23,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ban6cat6/protean/internal/byteorder"
-	"github.com/ban6cat6/protean/internal/fips140tls"
-	"github.com/ban6cat6/protean/internal/hpke"
-	"github.com/ban6cat6/protean/internal/tls13"
+	"github.com/XLESSGo/protean/internal/byteorder"
+	"github.com/XLESSGo/protean/internal/fips140tls"
+	"github.com/XLESSGo/protean/internal/hpke"
+	"github.com/XLESSGo/protean/internal/tls13"
 )
 
 type clientHandshakeState struct {

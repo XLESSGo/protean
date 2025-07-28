@@ -1,7 +1,7 @@
 package tls
 
 import (
-	"github.com/ban6cat6/protean/internal/hpke"
+	"github.com/XLESSGo/protean/internal/hpke"
 )
 
 type HPKERawPublicKey = []byte

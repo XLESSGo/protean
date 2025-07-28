@@ -8,7 +8,7 @@ import (
 	"crypto"
 	"testing"
 
-	"github.com/ban6cat6/protean/internal/fips140tls"
+	"github.com/XLESSGo/protean/internal/fips140tls"
 )
 
 func TestSignatureSelection(t *testing.T) {

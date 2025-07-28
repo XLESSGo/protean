@@ -19,8 +19,8 @@ import (
 	"slices"
 	"time"
 
-	"github.com/ban6cat6/protean/internal/hkdf"
-	"github.com/ban6cat6/protean/internal/tls13"
+	"github.com/XLESSGo/protean/internal/hkdf"
+	"github.com/XLESSGo/protean/internal/tls13"
 )
 
 type clientHandshakeStateTLS13 struct {

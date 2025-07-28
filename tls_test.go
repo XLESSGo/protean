@@ -31,9 +31,9 @@ import (
 
 	"golang.org/x/crypto/cryptobyte"
 
-	"github.com/ban6cat6/protean/internal/fips140tls"
-	"github.com/ban6cat6/protean/internal/hpke"
-	"github.com/ban6cat6/protean/testenv"
+	"github.com/XLESSGo/protean/internal/fips140tls"
+	"github.com/XLESSGo/protean/internal/hpke"
+	"github.com/XLESSGo/protean/testenv"
 )
 
 var rsaCertPEM = `-----BEGIN CERTIFICATE-----

@@ -27,7 +27,7 @@ import (
 	"time"
 	_ "unsafe" // for linkname
 
-	"github.com/ban6cat6/protean/internal/fips140tls"
+	"github.com/XLESSGo/protean/internal/fips140tls"
 )
 
 const (

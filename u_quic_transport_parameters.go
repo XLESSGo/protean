@@ -6,7 +6,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/ban6cat6/protean/internal/quicvarint"
+	"github.com/XLESSGo/protean/internal/quicvarint"
 )
 
 const (
