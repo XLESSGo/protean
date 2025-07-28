@@ -15,7 +15,7 @@ import (
 	"os"
 	"time"
 
-	tls "github.com/ban6cat6/protean"
+	tls "github.com/XLESSGo/protean"
 	"golang.org/x/net/http2"
 )
 

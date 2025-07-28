@@ -18,7 +18,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/ban6cat6/protean/internal/byteorder"
+	"github.com/XLESSGo/protean/internal/byteorder"
 )
 
 // serverHandshakeState contains details of a server handshake in progress.

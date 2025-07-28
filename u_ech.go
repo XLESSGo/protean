@@ -8,8 +8,8 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ban6cat6/protean/dicttls"
-	"github.com/ban6cat6/protean/internal/hpke"
+	"github.com/XLESSGo/protean/dicttls"
+	"github.com/XLESSGo/protean/internal/hpke"
 	"golang.org/x/crypto/cryptobyte"
 )
 

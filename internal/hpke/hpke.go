@@ -13,8 +13,8 @@ import (
 	"errors"
 	"math/bits"
 
-	"github.com/ban6cat6/protean/internal/byteorder"
-	"github.com/ban6cat6/protean/internal/hkdf"
+	"github.com/XLESSGo/protean/internal/byteorder"
+	"github.com/XLESSGo/protean/internal/hkdf"
 	"golang.org/x/crypto/chacha20poly1305"
 )
 

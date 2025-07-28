@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ban6cat6/protean/dicttls"
+	"github.com/XLESSGo/protean/dicttls"
 )
 
 var ErrUnknownExtension = errors.New("extension name is unknown to the dictionary")
